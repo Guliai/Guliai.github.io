@@ -2168,15 +2168,15 @@ body {
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
-      cursor: url('https://cdn.jsdelivr.net/gh/Guliai/Guliai.github.io@master/media/curs/default_link.cur'), default;
+      cursor: url('https://cdn.jsdelivr.net/gh/Guliai/Guliai.github.io/media/curs/default_link.cur'), default;
     }a {
-      cursor: url('https://cdn.jsdelivr.net/gh/Guliai/Guliai.github.io@master/media/curs/default_normal.cur'), pointer !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/Guliai/Guliai.github.io/media/curs/default_normal.cur'), pointer !important;
     }input, textarea, code {
-      cursor: url('https://cdn.jsdelivr.net/gh/Guliai/Guliai.github.io@master/media/curs/default_texto.cur'), text !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/Guliai/Guliai.github.io/media/curs/default_texto.cur'), text !important;
     }code > span.copy-code {
-      cursor: url('https://cdn.jsdelivr.net/gh/Guliai/Guliai.github.io@master/media/curs/wait.cur'), text !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/Guliai/Guliai.github.io/media/curs/wait.cur'), text !important;
     }.post img {
-      cursor: url('https://cdn.jsdelivr.net/gh/Guliai/Guliai.github.io@master/media/curs/default_vertical.cur'), zoom-in !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/Guliai/Guliai.github.io/media/curs/default_vertical.cur'), zoom-in !important;
     }.post img {
-      cursor: url('https://cdn.jsdelivr.net/gh/Guliai/Guliai.github.io@master/media/curs/default_zoomout.cur'), zoom-out !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/Guliai/Guliai.github.io/media/curs/default_zoomout.cur'), zoom-out !important;
     }
